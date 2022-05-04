@@ -1,0 +1,94 @@
+# PROJETOS AGÉIS COM SCRUM #
+
+*Conceitos básicos:
+-Objetios de Negócio > Requisitos > Processo de desemvolvimento
+1- Concepção 2- Análise & Design 3- Desenvolvimento 4- Teste 5- Implantação
+Princípio de pareto - aplica ao desenvolvimento de software, onde 20% das funcionalidades
+costumam gerar 80% ou mais de beneficíos esperado.
+-Tradicional(waterfall - Cascata) só permite que o projeto avance quando uma fase está
+inteiramento completa - preditivo - resistência a mudanças.
+-Ágil construídos por partes e cada parte executada em um ciclo - adaptativo.
+Rapidez na mudança e desembaraço.
+Maior valor para o cliente.
+Definições ao longo do projeto.
+
+SCRUM é um dos frameworks de gerenciamento de projetos ágeis.
+Projetos usando equipes pequenas e multidiciplinares
+-Transparência
+-Adaptação
+-Inspeção
+2a 4 semanas
+Melhor gerenciamento de riscos.
+Maior valor para o neg[ocio.
+Usuários envolvidos durante todo ciclo.
+Equipes capazes de auto-organização.
+Forte comprometimento.
+MVP - MINIMUM VIABLE PRODUCT
+
+*Papéis e responsabilidades:
+PO - PRDDUCT OWNER
+Representante de negócios
+Define funcionalidades
+Prioriza funcionalidades e backlog.
+
+SM - SCRUM MASTER
+Garantir uso correto do SCRUM
+Não é gerente de projetos
+Age como facilitador
+Auxilia o PO
+Treina o time
+
+DEV - TIME DE DESENVOLCIMENTO
+Possui habilidades para desenvolver, testar, criar e desenhar; para entregar
+o software funcionando.
+
+*Cerimônias do SCRUM:
+TIME BOX = tempo máximo para fazer uma cerimônia ou sprint. 8 horas
+Sprint = corrida = arrancada. 
+Principal evento.
+Planejamento - PO+SM+DEVS
+o que fazer?
+como fazer?
+
+Reuniões - PO+SM+DEVS 15 minutos
+TO DO / DOING / DONE - Quadro CAMBAM
+
+Revisão 4 horas
+time de DEV apresenta para o PO o trabalho feito.
+
+Retrospectiva 3 horas
+Reunião da equipe para lições aprendidas - TRANSPARÊNCIA
+
+FUNDAMENTOS DE UM PROJETO ÁGIL
+
+Papéis e responsabilidades do PO:
+PO - representa os valores agragados tanto para o publio e desenvolvimento.
+RELEASE PLANNING - liberação ou lançamento de software
+-de multipla squads - 
+-de projeto - 
+Analisando escopo e definindo prioridades:
+Product Backlog é composto por épicos e estórias.
+épicos = incremento sem muito detalhamento.
+estória = detalhamento dos épicos.
+- nome / descrição - eu, como, quero, quando. / regras - front do back end 
+/ tela - link ou imagem / KPI objetivos / tagueamento - mensurar 
+/ critérios - passo a passo
+
+Riscos positivos
+positivos = fatores de mairoes ganhos no desenvolvimento de sistemas
+negativos = pode afetar o prazo, custo ou escopo de um projeto
+
+Papel do PO na transformação digital:
+Processo no qual as empresas fazem o uso da tecnologia para melhorar o desempenho,
+aumentar o alcance e garantir resultados melhores.
+
+- Estórias vs tarefas:
+épico
+estória
+tarefas
+- Critérios de aceite, estimativa e planejament de tarefas:
+- Relacionamento com clientes / stakeholders:
+
+Dayle (DEVS) e retrospectiva(DEVS + SM) - 15 minutos mesmo horário e mesmo local.
+-todo time.
+

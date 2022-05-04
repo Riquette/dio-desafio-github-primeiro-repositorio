@@ -1,0 +1,133 @@
+Overview
+
+#VISÃO GERAL#
+
+Baseado em 4 pilares
+
+*DECOMPOSIÇÃO - Dividir problema complexo em subproblemas
+-Análise
+-Síntese
+-Estratégia - Senquêncial - fila / Paralelo - concomitantemente
+Desenvolver a deconposição "by yourself"
+2ª - problema principal 
+Identificar ou coletar dados > agregar os dados > funcionalidades
+
+*RECONHECIMENTO DE PADRÕES - Identificar padrões ou tendências
+-Modelo base
+-Estrutura invariante
+-Repetição
+Classificação de objetos - Classes e Categorias
+Representação de atributos
+Aprendizado
+Armazenar dados
+Regras de decisão
+Extração de caracteristicas} Abordagem
+Classificação de dados     } Abordagem
+- Aplicações - Machine learning - Redes Neurais - AI 
+Classificação de dados
+Reconhecimento de imagem
+Reconhecimento de fala
+Análise de cenas 
+Classificação de documentos
+
+*ABSTRAÇÃO - Extrapolar o coneito do problema para uma forma generalista
+POO - CLASSES / MÉTODOS / HERANÇA / POLIMORFISMO
+Abstrair - observar, um ou mais elementos, avaliando caracteristicas
+e propriedades em separado
+
+Abstração - processo intelectual de isolamento de um objeto da realidade.
+Generalizar - tornar-se geral, mais amplo.
+Generalização - é operação intelectual que consiste em reunir numa classe
+geral, um conjunto de seres ou fenômenos similares.
+
+Como classificar: 
+Conceitos: Árvore - Grafos - Merge sort - Clusteting - Busca binária	
+Maquinha da estado - linguagens - Comunicação
+Arquiteturas. 
+-Caracteristicas - Dados
+-Pontos essenciais - 
+-Generalizar X Detalhar
+
+*DESIGN DE ALGORITIMOS - Definir passo a passo a solução do problema.
+INPUT > OPERATOR > OUTPUT
+
+Processo contínuo 
+*Definir uma solução 
+*Testar a solução
+*Aperfeiçoamento da solução
+
+Análise > Teste > Refinamento
+Abstração - Resolução de problemas 
+Automatização - Expressão de solução
+Análise - Execução da solução e avaliação
+
+Variação dos pilares
+*Raciocínio lógico
+*Refinamento
+
+Competências
+*Pensamento sistemático
+*Colaboração dentro da equipe
+*Criatividade e design
+*Facilitador
+
+ALGORITIMOS
+-Energia
+-Trabalhador
+-Eficiência
+-Rapidez
+
+Desevolvimento do programa
+-Análise - Estudo e definição dos dados de entrada e sáida
+-Algoritimo - Descreve o problema por meio de ferramentas narrativas,
+fluxograma. 
+(Sequência de passos com objetivo definido, execução de tarefas,
+conjunto de operações)
+-Codificação - Algoritimo é codificado de acordo com a linguagem 
+de programação escolhida.
+
+Como construir um algoritimo?
+-Compreenção do problema 
+-Definição dos dados de entrada
+-Definir processamento
+-Definir dados de sáida
+-Utilizar um método de contrução
+Narrativa - utilização da linguagem natural - diversas interpretações
+Fluxograma - utilização de símbolos pré-definidos, conhecimentos deste.
+Pseudocódigo - portugol - regras definidas - passos a ser seguido
+-Teste de diagnóstico
+
+
+# HABILIDADES COMPLEMENTARES#
+
+*Raciocínio Lógico - Pensamento estruturado, que permite 
+encontrar a conclusão ou determinar a resolução do problema.
+               Sintética -Indução - Fenômeno observado - Ciências experimentais
+- Inferência - Analítica -Dedução - Previsões e explicações - Ciências exatas
+               Sintética -Abdução - Conlusão, premissa - Diagnósticos
+*Aperfeiçoamento
+-Ato de aperfeiçoar
+Encontrar solução eficiente } Melhor uso dos recursos
+Otimizar processos          } Melhor uso dos recursos
+Simplificar códigos         } Melhorar códigos e algoritimos
+Funções bem definidas       } Melhorar códigos e algoritimos
+
+
+# EXEMPLOS / ESTUDOS DE CASO
+
+PERDIDOS
+-IDENTIFICAR MECANISMOS
+-RECURSOS COMUNS
+-DETALHES MAIS IMPORTANTES
+
+SOBREVIVÊNCIA - DECOMPOSIÇÃO - RECONHECIMENTO DE PADRÕES - ABSTRAÇÃO
+- ÁGUA   1 CHUVA 
+         2 NASCENE         1 FOGO
+
+- COMIDA 1 COLETAR
+         2 CAÇAR           1 FOGO
+
+- ABRIGO 1 LOCALIZAÇÃO     1 MAPA 
+         2 PROTEÇÃO        1 FOGO
+                           2 LANÇA
+         3 QUENTE E SECO   1 FOGO

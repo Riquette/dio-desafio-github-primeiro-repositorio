@@ -1,0 +1,39 @@
+# GIT & GITHUB #
+
+1-Controle de versão
+2-Armazenamento em nuvem
+3-Trabalho em equipe
+4-Melhorar seu código
+5-Reconhecimento
+
+Windows
+-cd - entrar
+-dir - listar
+-mkdir - criar
+-del / rmdir
+-cls - limpar
+Unix
+-cd
+-ls
+-mkdir
+-rm -rf
+
+SHA = significa SECURE HASH ALGORITHM (Algoritmo de Hahs Seguro)
+é um conjunto de funções has criptográficas projetadas peça NSA
+(Agência de segurança Nacional dos EUA)
+-enciptação gera conjunto de caracteres identificador de 40 dígitos.
+-forma curta de representar um arquivo.
+
+Resolvendo conflitos.
+
+git init - inicializa o repositório
+git add - 
+git commit
+ls 
+ls -a
+cd ..
+mv - mover
+git add nome do arquivo
+git add *
+git add .
+git commit -m -mensagem
