@@ -1,0 +1,195 @@
+# PRIMEIROS PASSOS PARA DESENVOLVIMENTO WEB #
+
+INTRODUÇÃO À PROGRAMAÇÃO PARA INTERNET
+1969 - EUA, APARNET Departamento de defesa
+1982 - Universidades, Holanda, Dinamarca, Suécia
+1987 - Uso comercial
+1992 - CERN - WWW - 
+1988 - Brasil
+1994 - Embratel, conexão discada
+2000 - Banda larga.
+
+TERMOS CHAVES
+host - servidor
+html - linguagem de marcação
+http - protocolo
+link - ligação
+url - endereço
+
+INTERNET
+134 Milhões tem acesso. 75%
+Mulheres 74% 
+Homens 73%
+Área Urbana 77% 
+Rural 53%
+Ensino superior 97% acessam
+Empregados 81%
+Desempregados 64%
+Compras 39%
+
+REDES 
+Backbone - espinha dorsal para espalhar internet
+WWW > DNS > IP > CLASSES > 127.0.0.1
+
+TCP/IP 
+Protocolos de comunicação entre computadores em rede.
+4 camadas:
+1 - Física (placa de rede)
+2 - Rede (IP)
+3 - Transporte (TCP, UDP)
+4 - Aplicação (FTP, SMTP, HTTP)
+
+TCP X UDP
+UDP
+Rápido 
+Não confiável
+Carro do ovo
+Livestream
+TCP
+Voltado à conexão
+Handshake
+Integridade
+Aplicativos de mensagens
+
+PORTS - PORTAS
+20 - FTP
+22 - SSH
+25 - SMTP
+53 - DNS
+80 - HTTP
+443 - HTTPS
+
+MODEM
+MO dulator - DEM odulator
+ROTEADOR
+Distribui para um ou mais dispositivos de uma rede
+SWITCH
+Distribui para um ou mais dispositivos de uma rede
+São inteligentes
+
+DADOS MÓVEIS 
+SMS-MMS
+1G - 10kbps
+2G - 97kbps
+3G - 7mbps
+4G - 22mbps
+5G - 10gbps
+
+WI-FI
+IEEE 802.11: 2,4GHZ / 2MBPS
+IEEE 802.11a: 5GHZ / 54MBPS
+IEEE 802.11b: 2,4GHZ / 11MBPS (Diminuição de interferência)
+IEEE 802.11g: 2,4GHZ / 54 MBPS
+IEEE 802.11n: 2,4GHZ / 5GHZ / 150-600MBPS
+WEP:chaves 64 e 128 bits
+WPA: chave trocda periodicamente
+WPA2: (AES) (802.11i) + segurança + processamento
+
+BLUETOOTH
+
+BROWSER - NAVEGADOR
+LP - linguagem de programação.
+Estática - Parado
+Dinâmica - Interação
+
+-SITE 
+páginas da internet
+diversos propósitos
+pode ser feito em LP
+D/XHTML caindo em desuso
+-APLICATIVO
+Software que é executado no navegador
+aplicativo de celular
+Não existe tanta diferença
+Terminologia aplicativo
+-E-COMMERCE
+Sites de compra e venda
+Sistema de pagamento pode ser exterior 
+PICPAY - BOLETO - PAGSEGURO - PAYPAL
+
+WEB SERVER
+Estático e dinâmico
+Arquivos - file server
+Aplicações - Application server
+Bancos de dados - Data base
+tudo junto e misturado
+WEB SERVICE
+interface diponível para fazer requisições e
+conultas em bancos de dados inacessíveis(Correios, Governo)
+
+-STACKS
+Pilhas de tecnoligia
+Linguagens de programação
+Ambientes e ferramentas de interação APP/SW
+Capacidade e limitação de performance
+-FRONT END - JQUERY
+Parte da frente
+Sites, softwares, aplicativos
+UI/UX
+Lógica de programação HTML, CSS
+jQuery, JS, AJAX, PHP, Bootstrap
+-BACK END 
+Parte de trás
+Servidoes e banco de dados
+MySQL, Oracle, protocolos de comunicação, PHP
+JAva, node.js
+-Full Stack
+Profissional que sabe trabalhar em todas as camadas das
+tecnologias de desenvolvimento/execução de um app/sw
+
+LPS E TERMOS
+- Principais linguagens
+HTML, CSS, JAVASCRIPT, PHP, .NET, ASP, JAVA, RUBY, PYTHON
+PERL, C/C++/C#
+- Termos comuns
+404, Algoritmo, ALT, API, APLICAÇÃO, BACK-END, BIBLIOTECA/DLL
+BOOTSTRAP, BREAKPOINTS, BUG, CACHE, CÓDIGO, CONTROLE DE VERSÃO
+DEBUG, DEPLOY, DESIGN ADAPTATIVO/RESPONSIVO, DNS, DOCUMENTAÇÃO
+SOMÍNIO, DPI, EDITOR DE TEXTO, ESTRUTURA DE DADOS, FAVICON, FONTES
+FRAMEWORK, FRONT-END, FTP, FULL-STACK, GITHUB/SVN, HTTP(S), IP
+LINGUAGEM, META TAGS, MÉTODO ÁGIL, MOBILE, MVC, MVP, MYSQL, PIXEL
+RESOLUÇÃO, SERVIDOR, SO, SOLUÇÃO, SSL, UI, UX, VERSÃO, 
+WYSIWYG  - WATCH YOU SEE WATCH YOU GET
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
